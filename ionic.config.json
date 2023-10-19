@@ -1,0 +1,7 @@
+{
+    "name": "Intuart",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
